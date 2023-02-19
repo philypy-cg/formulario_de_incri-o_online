@@ -20,5 +20,13 @@ O Objetivo deste projeto foi aprimorar os conhecimentos em HTML, CSS e Javascrip
 ## Resultado final em Desktop:
 
 ![telainicial](https://user-images.githubusercontent.com/119917190/219968875-54038672-e794-48c1-a0b2-2f4d2ca54503.png)
+![mudançadetela](https://user-images.githubusercontent.com/119917190/219968948-f0595b9f-1f6f-48aa-b094-c6da19fb2a48.png)
+
+## Resultado final da loja em Gif:
+
+![formulario de inscrição](https://user-images.githubusercontent.com/119917190/219969152-5b82a0c5-8503-4d7d-917e-53e4a4861515.gif)
+
 
 ###### Link do Deploy (Página do Projeto):
+
+https://philypy-cg.github.io/formulario_de_incri-o_online/?#
