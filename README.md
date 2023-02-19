@@ -29,4 +29,4 @@ O Objetivo deste projeto foi aprimorar os conhecimentos em HTML, CSS e Javascrip
 
 ###### Link do Deploy (Página do Projeto):
 
-https://philypy-cg.github.io/formulario_de_incri-o_online/?#
+https://philypy-cg.github.io/formulario_de_inscricao_online/
