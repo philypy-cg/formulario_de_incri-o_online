@@ -8,7 +8,7 @@
 
 
 
-O Objetivo deste projeto foi aprimorar os conhecimentos em HTML, CSS e Javascript
+O Objetivo deste projeto foi aprimorar os conhecimentos em HTML, CSS e Javascript;
 
 - O  Cliente poderá acessar o formulário e se cadastrar de forma que os dados serão enviados ao banco de dados e em seguida acessar o login de acesso;
 - Foi criada uma estrutura simples no HTML;
